@@ -14,3 +14,6 @@ git branch -M main
 git add .
 git commit -m "initial commit"
 git push -u origin main
+
+*Untuk clone dari existing repository
+git clone https://github.com/erwin-zulfikar/belajargit2023.git
